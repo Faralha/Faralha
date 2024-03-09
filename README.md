@@ -12,7 +12,7 @@ I taught myself on website programming! Currently learning Nuxt + Express Full s
 👩‍💻 Working on a hobby project (A Manga Reading Website, Full-stack) and some side work! (HCQ's 'Classroom' system, Full-stack)
 🧠 Currently learning Full-stack Website with Javascript (Express + Nuxt). I also want to learn PHP in the future.
 
-### 📓 Projects
+# 📓 Projects
 - Alterkai, a manga reading website. (https://alterkaiscans.my.id)
 - HCQ, Fullstack classroom website for student attendance and grading systems (On going)
 
