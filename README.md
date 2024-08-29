@@ -14,8 +14,9 @@ I taught myself on website programming! Currently learning Nuxt + Express Full s
 🧠 Currently learning Full-stack Website with Javascript (Express + Nuxt). I also want to learn PHP in the future.
 
 # 📓 Projects
-- Alterkai, a manga reading website. (https://alterkaiscans.my.id)
-- HCQ, Fullstack classroom website for student attendance and grading systems (On going)
+- Alterkai, a manga reading website (Soon)
+- HCQ, Fullstack classroom website for student attendance and grading systems (Ongoing)
+- Alterkai TL Academy, an intuitive and easy to learn website for Manga Translating (https://academy.alterkaiscans.my.id)
 
 # Contacts
 - Discord (@faralha)
