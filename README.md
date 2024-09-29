@@ -15,8 +15,9 @@ I taught myself on website programming! Currently learning Nuxt + Express Full s
 
 # 📓 Projects
 - Alterkai, a manga reading website (Soon)
-- HCQ, Fullstack classroom website for student attendance and grading systems (Ongoing)
+- HCQ, Fullstack classroom website for student attendance and grading systems (Postponed)
 - Alterkai TL Academy, an intuitive and easy to learn website for Manga Translating (https://academy.alterkaiscans.my.id)
+- Tropica Sweets, a simple business landing page for Palm Sugar Export (https://tropicasweets.com) 
 
 # Contacts
 - Discord (@faralha)
